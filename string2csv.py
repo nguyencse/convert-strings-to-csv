@@ -33,7 +33,7 @@ def xml_2_csv(file_name):
 
     return data
 
-# convert strings.xml to csv for ios
+# convert Localizable.strings to csv for ios
 def strings_2_csv(file_name):
     keys = []
     values = []
